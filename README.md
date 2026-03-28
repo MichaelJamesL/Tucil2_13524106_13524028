@@ -47,8 +47,8 @@ Jika belum terinstal, unduh dari [https://go.dev/dl/](https://go.dev/dl/)
 ### Langkah Instalasi
 1. Clone repository ini:
 ```bash
-git clone https://github.com/MichaelJamesL/Tucil3_Stima.git
-cd Tucil3_Stima
+git clone https://github.com/MichaelJamesL/Tucil2_13524106_13524028.git
+cd Tucil2_13524106_13524028
 ```
 
 2. (Opsional) Verifikasi modul:
