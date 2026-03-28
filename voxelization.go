@@ -301,7 +301,7 @@ func voxelization(path string) {
 	}
 	minVec, maxVec := getBoundingBox(vertices)
 	length := math.Max(maxVec.x-minVec.x, math.Max(maxVec.y-minVec.y, maxVec.z-minVec.z))
-	depth := 7
+	depth := 4
 	voxelSize := length / math.Pow(2, float64(depth))
 
 	res := BuildOctree(triangles, Cube{Min: minVec, Max: maxVec}, 0, depth)
