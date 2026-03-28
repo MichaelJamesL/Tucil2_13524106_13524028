@@ -1,4 +1,4 @@
-# Tucil 3 IF2211 Strategi Algoritma — Voxelisasi 3D dengan Divide and Conquer
+# Tucil 2 IF2211 Strategi Algoritma — Voxelisasi 3D dengan Divide and Conquer
 
 ## Identitas Pembuat
 
